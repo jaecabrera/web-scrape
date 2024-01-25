@@ -1,0 +1,4 @@
+requests-html==0.10.0
+pandas
+toml
+requests

@@ -1,0 +1,9 @@
+[scrape-params]
+research_code = [
+    '29766633',
+    '29773516',
+    '29779700',
+    '29791681',
+    '29797503']
+url = 'https://pubmed.ncbi.nlm.nih.gov/'
+selector = "div#eng-abstract.abstract-content.selected p"
